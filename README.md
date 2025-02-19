@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>B&P</title>
@@ -7,6 +7,10 @@
             background-color: black;
             color: white;
         }
+    </style>
+    <script type="text/javascript">
+    </script>
+    <link rel="stylesheet" href="index.js">
 </head>
 <body>
     <br>
