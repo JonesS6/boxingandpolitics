@@ -7,10 +7,6 @@
             background-color: black;
             color: white;
         }
-    </style>
-    <script type="text/javascript">
-    </script>
-    <link rel="stylesheet" href="index.js">
 </head>
 <body>
     <br>
