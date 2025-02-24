@@ -32,7 +32,7 @@
     Wins
         <br>
         <br>
-        <img src="https://www.usaboxing.org/" alt="USA Boxing" width="1600" height="2000">
+        <img src="IMG_20240216_205817851.jpg"width="1600" height="2000">
     </p>
     <br>
     <br>
