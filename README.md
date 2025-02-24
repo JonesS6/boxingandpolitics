@@ -14,12 +14,12 @@
 </head>
 <body>
     <br>
-    <h2> <strong> <u> Sean Patrick </u></strong></h2>
+    <h2> <strong> <u> Boxing </u></strong></h2>
     <p> I started out in the mud, now i got that bubble stuff,
         it was tough but now im having fun,i wont stop till im done
     </p>
     <hr>
-    <h2> <strong><u>Jones Jr</u></strong> </h2>
+    <h2> <strong><u>Politics</u></strong> </h2>
         <p> 
             Getting up and over and obstical like im inna hurrdle race, 
             you gotta crawl before you walk and walk before you run 
@@ -27,13 +27,12 @@
     <br>
     <hr>
     <br>
-    <h2><u>Boxing and Politics</u></h2>
+    <h2><u>Alil About me</u></h2>
     <p>
     Wins
         <br>
         <br>
-        <img src="IMG_20240216_205817851.jpg"width="1600" height="2000">
-    </p>
+       <p> <img> href="IMG_20240216_205817851.jpg  </img>  </p>
     <br>
     <br>
     <p>
