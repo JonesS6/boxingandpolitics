@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <title>B&P</title>
@@ -6,28 +5,25 @@
         body { 
             background-color: black;
             color: white;}
-    </style>
-    <script type="text/javascript">
-    </script>
-    <link rel="stylesheet" href="index.js">
+            </style>
 </head>
 <body>
+<href="https://youtu.be/iLFn-ivYcmU">
     <br>
-    <h2> <strong> <u> Boxing </u></strong></h2>
-    <p> I started out in the mud, now i got that bubble stuff,
-        it was tough but now im having fun,i wont stop till im done
+    <h2 style="border: solid;"> <strong> <u> Boxing </u></strong></h2>
+    <p style="color: blue;">
+    <div style="border: solid; color: blue;"> Punches in bunches. This is really something i can ge paid to give someone a concusssion.</div>
     </p>
     <hr>
-    <h2> <strong><u>Politics</u></strong> </h2>
-        <p> 
-            Getting up and over and obstical like im inna hurrdle race, 
-            you gotta crawl before you walk and walk before you run 
+    <h2 style="border: solid;"> <strong><u>Politics</u></strong> </h2>
+        <p style="color: red; border: solid;"> 
+            Todays news feed 
         </p>
     <br>
     <hr>
     <br>
-    <h2><u>Alil About me</u></h2>
-    <p>
+    <h2 style="border: solid;"> <u>Alil About me</u></h2>
+    <p style="color: gold; border: solid; color: gold;"> 
     Wins
         <br>
         <br>
@@ -37,9 +33,11 @@
     <p>
     Losses
     <br>
+    <p style="color: gold; border: solid;">TBD</p>
+    <br>
     <hr>
-    <h4><u>Contact Me</u></h4>
-    <p> 
+    <h4 style="border: solid; color: red;"> <u>Contact Me</u></h4>
+    <p style="border: solid; color: Blue;">
         Email:Seanpjones96@gmail.com
         <br>
         Twitter:@sean_p_jones10 <a href="https://x.com/Sean_p_Jones10 " target="_blank">Link</a>
@@ -50,7 +48,7 @@
         <br>
     Youtube:<a href="https://www.youtube.com/@seanjones5556" target="_blank">Link</a>
     </p>
-Resume: <a href="https://www.canva.com/design/DAGfhO6Slwg/b7FexKCc7fj5O_oyXfjeRg/edit?utm_content=DAGfhO6Slwg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Link</a>
+Resume: Loading
     </p>
 </body>
 </html>
