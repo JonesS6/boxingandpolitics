@@ -2,32 +2,47 @@
 <head>
     <title>B&P</title>
     <style>
-        body { 
-            background-color: black;
-            color: white;}
+        body
+         { background-image: url(IMG_20240216_205817851.jpg);
+            color: white; background-repeat: no-repeat; background-attachment: fixed; background-size: 100% 100% ;}
             </style>
 </head>
 <body>
-<href="https://youtu.be/iLFn-ivYcmU">
+<center><h1><u>BOXING AND POLITICS</u></h1></center>
     <br>
     <h2 style="border: solid;"> <strong> <u> Boxing </u></strong></h2>
-    <p style="color: blue;">
-    <div style="border: solid; color: blue;"> Punches in bunches. This is really something i can ge paid to give someone a concusssion.</div>
+    <p style="color: orange;">
+    <div style="border: solid; color: orange;"> Punches in bunches. This is really something i can ge paid to give someone a concusssion.</div>
     </p>
+    <div>
+    <ul style="background-img: >
+    <li> Gervonta"Tank" Davis Matchup ends in Draw!</li>
+        <li>Time Square Event Hosted by Onwer of Ring Magazine Turki Al-Sheikh</li>
+        <li>Dmitry Bivol beats Authur Betteriev for the Undisputed Light Heavy weight championship </li>
+        <li>Corruption in Boxing: SNAC  </li>
+        <li> Boxing Is Full of Softies</li>
+        <li>The Face of Boxing>?</li>
+    </ul>
+    </div>
     <hr>
     <h2 style="border: solid;"> <strong><u>Politics</u></strong> </h2>
-        <p style="color: red; border: solid;"> 
-            Todays news feed 
+        <p style="color: white; border: solid;"> 
+            <ul style="color: darkgreen;">
+            <li>47th President Donald J Trump</li>
+            </li>Hostages Returned</li>
+            <li>Elon works for goverment</li>
+            <li> Plans fall from Sky</li>
+            <li> NASA First Private moon landing: Successful</li>
+            </ul>
         </p>
-    <br>
     <hr>
     <br>
-    <h2 style="border: solid;"> <u>Alil About me</u></h2>
+    <h2 style="border: solid;" style="color: lightblue;"> <u>Alil About me</u></h2>
     <p style="color: gold; border: solid; color: gold;"> 
     Wins
         <br>
         <br>
-       <img src="IMG_20240216_205817851.jpg" /img> 
+      <div style="border: solid;"> <img src="IMG_20240202_183154337"/img> </div>
     <br>
     <br>
     <p>
@@ -48,7 +63,8 @@
         <br>
     Youtube:<a href="https://www.youtube.com/@seanjones5556" target="_blank">Link</a>
     </p>
-Resume: Loading
+Resume: Still Loading
     </p>
 </body>
 </html>
+
